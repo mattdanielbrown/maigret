@@ -1,2 +1,3 @@
 sphinx-copybutton
 sphinx_rtd_theme
+idna>=3.15 # not directly required, pinned by Snyk to avoid a vulnerability
